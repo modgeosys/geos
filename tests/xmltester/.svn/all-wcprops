@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/2044/trunk/tests/xmltester
+END
+TestValid2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1292/trunk/tests/xmltester/TestValid2.xml
+END
+stmlf-cases-20070119.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1965/trunk/tests/xmltester/stmlf-cases-20070119.xml
+END
+testrunner.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1626/trunk/tests/xmltester/testrunner.sh
+END
+hexwkb.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/1028/trunk/tests/xmltester/hexwkb.xml
+END
+Stackwalker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/tests/xmltester/Stackwalker.cpp
+END
+TestValid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1321/trunk/tests/xmltester/TestValid.xml
+END
+hole_from_shell.xml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1976/trunk/tests/xmltester/hole_from_shell.xml
+END
+TestInteriorPoint.xml
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1424/trunk/tests/xmltester/TestInteriorPoint.xml
+END
+linemerge.xml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1234/trunk/tests/xmltester/linemerge.xml
+END
+TestCentroid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1111/trunk/tests/xmltester/TestCentroid.xml
+END
+CTS.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/1820/trunk/tests/xmltester/CTS.cpp
+END
+TestBufferExternal.xml
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1959/trunk/tests/xmltester/TestBufferExternal.xml
+END
+XMLTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/1960/trunk/tests/xmltester/XMLTester.h
+END
+TestValid2-big.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1293/trunk/tests/xmltester/TestValid2-big.xml
+END
+testLeaksBig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1485/trunk/tests/xmltester/testLeaksBig.xml
+END
+hole_red.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/1976/trunk/tests/xmltester/hole_red.xml
+END
+SimpleWKTTester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/tests/xmltester/SimpleWKTTester.cpp
+END
+TestIsValid.xml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1166/trunk/tests/xmltester/TestIsValid.xml
+END
+heisenbugs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1963/trunk/tests/xmltester/heisenbugs.xml
+END
+WKTIn
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/1028/trunk/tests/xmltester/WKTIn
+END
+WKTOut
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/1028/trunk/tests/xmltester/WKTOut
+END
+badguy3.xml
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/1973/trunk/tests/xmltester/badguy3.xml
+END
+TestRobustOverlayFixed.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1946/trunk/tests/xmltester/TestRobustOverlayFixed.xml
+END
+Stackwalker.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/tests/xmltester/Stackwalker.h
+END
+buffer_snapround.xml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1222/trunk/tests/xmltester/buffer_snapround.xml
+END
+fme.xml
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/1953/trunk/tests/xmltester/fme.xml
+END
+robustness.xml
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1949/trunk/tests/xmltester/robustness.xml
+END
+XMLTester.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2044/trunk/tests/xmltester/XMLTester.cpp
+END
+buffer.xml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/1163/trunk/tests/xmltester/buffer.xml
+END
+stmlf-cases-20061020.xml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1920/trunk/tests/xmltester/stmlf-cases-20061020.xml
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/1976/trunk/tests/xmltester/Makefile.am
+END
+test.xml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/1028/trunk/tests/xmltester/test.xml
+END

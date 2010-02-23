@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/2097/trunk/source/geom/util
+END
+GeometryTransformer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/geom/util/GeometryTransformer.cpp
+END
+LinearComponentExtracter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/geom/util/LinearComponentExtracter.cpp
+END
+GeometryEditor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/geom/util/GeometryEditor.cpp
+END
+ShortCircuitedGeometryVisitor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/1820/trunk/source/geom/util/ShortCircuitedGeometryVisitor.cpp
+END
+CoordinateOperation.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/geom/util/CoordinateOperation.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2097/trunk/source/geom/util/Makefile.am
+END
+PolygonExtracter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/geom/util/PolygonExtracter.cpp
+END
+PointExtracter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/geom/util/PointExtracter.cpp
+END
+ComponentCoordinateExtracter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/2068/trunk/source/geom/util/ComponentCoordinateExtracter.cpp
+END

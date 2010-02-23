@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/geos/!svn/ver/2018/trunk/macros
+END
+python.m4
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/1003/trunk/macros/python.m4
+END
+ruby.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/2018/trunk/macros/ruby.m4
+END
+ac_python_devel.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/1337/trunk/macros/ac_python_devel.m4
+END
+boost.m4
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/1174/trunk/macros/boost.m4
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/31/trunk/macros/Makefile.am
+END
+ac_pkg_swig.m4
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/2013/trunk/macros/ac_pkg_swig.m4
+END
+geos.m4
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/1690/trunk/macros/geos.m4
+END

@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/2099/trunk/source/headers/geos
+END
+platform.h.vc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1982/trunk/source/headers/geos/platform.h.vc
+END
+precision.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/headers/geos/precision.h
+END
+version.h.vc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/2033/trunk/source/headers/geos/version.h.vc
+END
+operation.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation.h
+END
+geomgraphindex.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1820/trunk/source/headers/geos/geomgraphindex.h
+END
+opLinemerge.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/headers/geos/opLinemerge.h
+END
+io.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/2045/trunk/source/headers/geos/io.h
+END
+opBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1820/trunk/source/headers/geos/opBuffer.h
+END
+nodingSnapround.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/headers/geos/nodingSnapround.h
+END
+geomgraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/headers/geos/geomgraph.h
+END
+indexChain.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1820/trunk/source/headers/geos/indexChain.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/1820/trunk/source/headers/geos/util.h
+END
+noding.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/1820/trunk/source/headers/geos/noding.h
+END
+indexBintree.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/indexBintree.h
+END
+indexStrtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/indexStrtree.h
+END
+unload.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/1820/trunk/source/headers/geos/unload.h
+END
+profiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/2021/trunk/source/headers/geos/profiler.h
+END
+geomUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1820/trunk/source/headers/geos/geomUtil.h
+END
+platform.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/headers/geos/platform.h.in
+END
+opDistance.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1820/trunk/source/headers/geos/opDistance.h
+END
+version.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1820/trunk/source/headers/geos/version.h.in
+END
+opPolygonize.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/opPolygonize.h
+END
+opValid.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/source/headers/geos/opValid.h
+END
+planargraph.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/headers/geos/planargraph.h
+END
+opPredicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/headers/geos/opPredicate.h
+END
+timeval.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2015/trunk/source/headers/geos/timeval.h
+END
+indexQuadtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/headers/geos/indexQuadtree.h
+END
+geosAlgorithm.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/headers/geos/geosAlgorithm.h
+END
+opRelate.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1820/trunk/source/headers/geos/opRelate.h
+END
+inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/1820/trunk/source/headers/geos/inline.h
+END
+opOverlay.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/headers/geos/opOverlay.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1916/trunk/source/headers/geos/Makefile.am
+END
+indexSweepline.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1820/trunk/source/headers/geos/indexSweepline.h
+END
+spatialIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/spatialIndex.h
+END
+geom.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/2045/trunk/source/headers/geos/geom.h
+END

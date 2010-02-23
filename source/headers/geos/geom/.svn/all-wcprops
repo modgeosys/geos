@@ -1,0 +1,239 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/2094/trunk/source/headers/geos/geom
+END
+Point.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/Point.h
+END
+Geometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/2055/trunk/source/headers/geos/geom/Geometry.h
+END
+MultiPolygon.inl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/MultiPolygon.inl
+END
+GeometryFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/GeometryFilter.h
+END
+GeometryCollection.inl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/GeometryCollection.inl
+END
+CoordinateArraySequenceFactory.inl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/CoordinateArraySequenceFactory.inl
+END
+MultiPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/MultiPoint.h
+END
+LineSegment.inl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/LineSegment.inl
+END
+Location.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1835/trunk/source/headers/geos/geom/Location.h
+END
+Envelope.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/2054/trunk/source/headers/geos/geom/Envelope.inl
+END
+PrecisionModel.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/PrecisionModel.h
+END
+GeometryFactory.inl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/GeometryFactory.inl
+END
+CoordinateSequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1958/trunk/source/headers/geos/geom/CoordinateSequence.h
+END
+BinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1948/trunk/source/headers/geos/geom/BinaryOp.h
+END
+CoordinateList.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/CoordinateList.h
+END
+GeometryComponentFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/GeometryComponentFilter.h
+END
+Geometry.inl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/Geometry.inl
+END
+Polygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/Polygon.h
+END
+Coordinate.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/Coordinate.h
+END
+MultiLineString.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/MultiLineString.h
+END
+LinearRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/LinearRing.h
+END
+IntersectionMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/IntersectionMatrix.h
+END
+CoordinateFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1986/trunk/source/headers/geos/geom/CoordinateFilter.h
+END
+MultiPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/MultiPolygon.h
+END
+Triangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/Triangle.h
+END
+PrecisionModel.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/PrecisionModel.inl
+END
+GeometryCollection.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/GeometryCollection.h
+END
+CoordinateArraySequenceFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/CoordinateArraySequenceFactory.h
+END
+CoordinateSequenceFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/CoordinateSequenceFactory.h
+END
+LineSegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/LineSegment.h
+END
+Envelope.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/2056/trunk/source/headers/geos/geom/Envelope.h
+END
+LineString.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/LineString.h
+END
+CoordinateArraySequence.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/1958/trunk/source/headers/geos/geom/CoordinateArraySequence.h
+END
+Coordinate.inl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/Coordinate.inl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/2078/trunk/source/headers/geos/geom/Makefile.am
+END
+GeometryFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/GeometryFactory.h
+END
+MultiLineString.inl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/MultiLineString.inl
+END
+Dimension.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/Dimension.h
+END
+GeometryList.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/GeometryList.h
+END

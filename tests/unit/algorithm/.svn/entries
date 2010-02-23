@@ -1,0 +1,57 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/tests/unit/algorithm
+http://svn.osgeo.org/geos
+
+
+
+2007-06-10T11:53:49.539285Z
+1993
+mloskot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+CGAlgorithms
+dir
+
+ConvexHullTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:02.000000Z
+56faab8b00d7757fa0b7026234aed373
+2007-06-10T11:53:49.539285Z
+1993
+mloskot
+has-props
+
+PointLocatorTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:02.000000Z
+442041e1a00aa34a014cfb1b575e3909
+2006-09-07T15:28:03.432552Z
+1842
+strk
+has-props
+

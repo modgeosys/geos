@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2094/trunk/source/headers/geos/geom/prep
+END
+PreparedPolygonPredicate.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPolygonPredicate.h
+END
+PreparedPolygonCovers.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPolygonCovers.h
+END
+AbstractPreparedPolygonContains.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/AbstractPreparedPolygonContains.h
+END
+PreparedLineString.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedLineString.h
+END
+PreparedLineStringIntersects.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedLineStringIntersects.h
+END
+PreparedPolygonContainsProperly.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPolygonContainsProperly.h
+END
+PreparedGeometryFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/2094/trunk/source/headers/geos/geom/prep/PreparedGeometryFactory.h
+END
+PreparedPolygonLineIntersection.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPolygonLineIntersection.h
+END
+PreparedPolygonContains.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPolygonContains.h
+END
+PreparedPolygon.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPolygon.h
+END
+PreparedPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPoint.h
+END
+PreparedPolygonIntersects.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedPolygonIntersects.h
+END
+PreparedGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/PreparedGeometry.h
+END
+BasicPreparedGeometry.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/geos/!svn/ver/2059/trunk/source/headers/geos/geom/prep/BasicPreparedGeometry.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/2078/trunk/source/headers/geos/geom/prep/Makefile.am
+END

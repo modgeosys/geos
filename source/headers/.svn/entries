@@ -1,0 +1,70 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/source/headers
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T23:31:58.192021Z
+2099
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+acconfig.h
+file
+
+
+
+
+2007-12-24T19:53:30.000000Z
+c4334ca4f82e16b63fba0121f9ba13db
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+
+geos.h
+file
+
+
+
+
+2007-12-24T19:53:30.000000Z
+669c7cbe05435041caea0762fc3ea3c6
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:53:30.000000Z
+85724153517a837c7f20ea1721eed428
+2005-03-02T08:14:20.000000Z
+683
+strk
+has-props
+
+geos
+dir
+

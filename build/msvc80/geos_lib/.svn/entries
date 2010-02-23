@@ -1,0 +1,40 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/build/msvc80/geos_lib
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T20:48:39.902796Z
+2071
+benjubb
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+geos_lib.vcproj
+file
+
+
+
+
+2007-12-24T19:46:37.000000Z
+1f7313088b3478cf37e57218005c1ef0
+2007-12-21T20:48:39.902796Z
+2071
+benjubb
+

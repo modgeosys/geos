@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/1997/trunk/source/operation/overlay
+END
+LineBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/operation/overlay/LineBuilder.cpp
+END
+PolygonBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1820/trunk/source/operation/overlay/PolygonBuilder.cpp
+END
+OverlayNodeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1820/trunk/source/operation/overlay/OverlayNodeFactory.cpp
+END
+OverlayOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1932/trunk/source/operation/overlay/OverlayOp.cpp
+END
+PointBuilder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/operation/overlay/PointBuilder.cpp
+END
+FuzzyPointLocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1941/trunk/source/operation/overlay/FuzzyPointLocator.cpp
+END
+OverlayResultValidator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1941/trunk/source/operation/overlay/OverlayResultValidator.cpp
+END
+OffsetPointGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1941/trunk/source/operation/overlay/OffsetPointGenerator.cpp
+END
+EdgeSetNoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/operation/overlay/EdgeSetNoder.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1821/trunk/source/operation/overlay/Makefile.am
+END
+ElevationMatrix.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1997/trunk/source/operation/overlay/ElevationMatrix.cpp
+END
+ElevationMatrixCell.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/1820/trunk/source/operation/overlay/ElevationMatrixCell.cpp
+END
+MinimalEdgeRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/operation/overlay/MinimalEdgeRing.cpp
+END
+MaximalEdgeRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/operation/overlay/MaximalEdgeRing.cpp
+END

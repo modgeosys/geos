@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 50
+Makefile.in
+Makefile
+version.h
+platform.h
+stamp-h2
+END

@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/2100/trunk/source/algorithm
+END
+SIRtreePointInRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1986/trunk/source/algorithm/SIRtreePointInRing.cpp
+END
+InteriorPointArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1986/trunk/source/algorithm/InteriorPointArea.cpp
+END
+HCoordinate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/2043/trunk/source/algorithm/HCoordinate.cpp
+END
+CentroidArea.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1986/trunk/source/algorithm/CentroidArea.cpp
+END
+RayCrossingCounter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/2072/trunk/source/algorithm/RayCrossingCounter.cpp
+END
+RobustLineIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1820/trunk/source/algorithm/RobustLineIntersector.cpp
+END
+RobustDeterminant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1820/trunk/source/algorithm/RobustDeterminant.cpp
+END
+LineIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1938/trunk/source/algorithm/LineIntersector.cpp
+END
+SimplePointInRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1820/trunk/source/algorithm/SimplePointInRing.cpp
+END
+InteriorPointLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1986/trunk/source/algorithm/InteriorPointLine.cpp
+END
+PointLocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1986/trunk/source/algorithm/PointLocator.cpp
+END
+CentroidLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1986/trunk/source/algorithm/CentroidLine.cpp
+END
+InteriorPointPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1986/trunk/source/algorithm/InteriorPointPoint.cpp
+END
+MCPointInRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/algorithm/MCPointInRing.cpp
+END
+CentroidPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1986/trunk/source/algorithm/CentroidPoint.cpp
+END
+NonRobustLineIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/algorithm/NonRobustLineIntersector.cpp
+END
+CGAlgorithms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1986/trunk/source/algorithm/CGAlgorithms.cpp
+END
+MinimumDiameter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1986/trunk/source/algorithm/MinimumDiameter.cpp
+END
+ConvexHull.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/algorithm/ConvexHull.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2098/trunk/source/algorithm/Makefile.am
+END
+NotRepresentableException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1820/trunk/source/algorithm/NotRepresentableException.cpp
+END

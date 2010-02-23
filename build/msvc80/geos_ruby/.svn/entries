@@ -1,0 +1,40 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/build/msvc80/geos_ruby
+http://svn.osgeo.org/geos
+
+
+
+2007-11-26T15:19:40.447136Z
+2035
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+geos_ruby.vcproj
+file
+
+
+
+
+2007-12-24T19:46:41.000000Z
+d0a8d6a79153be2336cca29e102d4743
+2007-11-26T15:19:40.447136Z
+2035
+mloskot
+

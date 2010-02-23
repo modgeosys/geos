@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/1992/trunk/source/precision
+END
+EnhancedPrecisionOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/precision/EnhancedPrecisionOp.cpp
+END
+GeometrySnapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1948/trunk/source/precision/GeometrySnapper.cpp
+END
+LineStringSnapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1940/trunk/source/precision/LineStringSnapper.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/1770/trunk/source/precision/Makefile.am
+END
+CommonBitsOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/precision/CommonBitsOp.cpp
+END
+CommonBits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/precision/CommonBits.cpp
+END
+CommonBitsRemover.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1820/trunk/source/precision/CommonBitsRemover.cpp
+END
+SimpleGeometryPrecisionReducer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1820/trunk/source/precision/SimpleGeometryPrecisionReducer.cpp
+END

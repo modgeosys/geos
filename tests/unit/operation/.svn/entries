@@ -1,0 +1,46 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/tests/unit/operation
+http://svn.osgeo.org/geos
+
+
+
+2007-06-11T07:39:31.501215Z
+1995
+mloskot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+overlay
+dir
+
+IsSimpleOpTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:00.000000Z
+653f6f63eeaa19bd6a5671da6eeb98c5
+2007-06-11T07:39:31.501215Z
+1995
+mloskot
+
+distance
+dir
+

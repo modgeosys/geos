@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1971/trunk/source/headers/geos/index/strtree
+END
+AbstractNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/1971/trunk/source/headers/geos/index/strtree/AbstractNode.h
+END
+ItemBoundable.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1971/trunk/source/headers/geos/index/strtree/ItemBoundable.h
+END
+Boundable.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1971/trunk/source/headers/geos/index/strtree/Boundable.h
+END
+AbstractSTRtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1971/trunk/source/headers/geos/index/strtree/AbstractSTRtree.h
+END
+SIRtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1971/trunk/source/headers/geos/index/strtree/SIRtree.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1613/trunk/source/headers/geos/index/strtree/Makefile.am
+END
+Interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/strtree/Interval.h
+END
+STRtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1971/trunk/source/headers/geos/index/strtree/STRtree.h
+END

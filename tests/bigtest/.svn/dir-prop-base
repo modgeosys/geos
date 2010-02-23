@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 51
+TestSweepLineSpeed
+Makefile
+Makefile.in
+.deps
+.libs
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/geos/!svn/ver/1820/trunk/swig/python/tests
+END
+test_geometry.py
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/swig/python/tests/test_geometry.py
+END
+example.py
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/1820/trunk/swig/python/tests/example.py
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1755/trunk/swig/python/tests/Makefile.am
+END
+TESTING.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/509/trunk/swig/python/tests/TESTING.txt
+END
+runtests.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/swig/python/tests/runtests.py
+END

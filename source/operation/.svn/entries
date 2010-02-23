@@ -1,0 +1,91 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/source/operation
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T20:42:34.913309Z
+2066
+benjubb
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+polygonize
+dir
+
+valid
+dir
+
+GeometryGraphOperation.cpp
+file
+
+
+
+
+2007-12-24T19:49:15.000000Z
+de3811090dacc0afcb99249123839ba0
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+
+predicate
+dir
+
+overlay
+dir
+
+IsSimpleOp.cpp
+file
+
+
+
+
+2007-12-24T19:49:15.000000Z
+69c50b61326643735f2caf98021fe654
+2007-06-11T07:43:46.202342Z
+1996
+mloskot
+has-props
+
+linemerge
+dir
+
+buffer
+dir
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:49:15.000000Z
+4bec406586c984c38c707d1b560209c6
+2006-02-01T22:21:29.000000Z
+1035
+strk
+has-props
+
+distance
+dir
+
+relate
+dir
+

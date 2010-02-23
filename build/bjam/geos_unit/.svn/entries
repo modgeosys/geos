@@ -1,0 +1,40 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/build/bjam/geos_unit
+http://svn.osgeo.org/geos
+
+
+
+2007-12-22T00:04:25.420217Z
+2101
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+Jamfile
+file
+
+
+
+
+2007-12-24T19:46:41.000000Z
+4763eebfa7c82cb1d9c5d6e563632a81
+2007-06-01T13:53:21.767150Z
+1983
+mloskot
+

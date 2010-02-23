@@ -1,0 +1,52 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/web
+http://svn.osgeo.org/geos
+
+
+
+2007-11-02T22:41:19.131065Z
+2031
+pramsey
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+style.css
+file
+
+
+
+
+2007-12-24T19:58:47.000000Z
+bbdc4e783ef9be166e92d146f2e0da16
+2007-11-02T22:17:54.674854Z
+2030
+pramsey
+
+index.html
+file
+
+
+
+
+2007-12-24T19:58:47.000000Z
+4b8279ead2834414f4708e2094c0c94f
+2007-11-02T22:41:19.131065Z
+2031
+pramsey
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/2026/trunk/source/index/strtree
+END
+Interval.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/index/strtree/Interval.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1062/trunk/source/index/strtree/Makefile.am
+END
+STRtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/2026/trunk/source/index/strtree/STRtree.cpp
+END
+AbstractNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1971/trunk/source/index/strtree/AbstractNode.cpp
+END
+ItemBoundable.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1971/trunk/source/index/strtree/ItemBoundable.cpp
+END
+AbstractSTRtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1971/trunk/source/index/strtree/AbstractSTRtree.cpp
+END
+SIRtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1986/trunk/source/index/strtree/SIRtree.cpp
+END

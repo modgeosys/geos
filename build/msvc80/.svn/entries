@@ -1,0 +1,79 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/build/msvc80
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T20:48:39.902796Z
+2071
+benjubb
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+geos_lib
+dir
+
+geos.sln
+file
+
+
+
+
+2007-12-24T19:46:41.000000Z
+05a023185cde78b5e0ce649cb26d22d6
+2007-08-29T01:41:22.292298Z
+2010
+csavage
+
+geos.vsprops
+file
+
+
+
+
+2007-12-24T19:46:41.000000Z
+6a4e10ff0ab0e0a43ed589c0b2676044
+2007-11-26T16:26:42.561777Z
+2036
+mloskot
+
+geos_c_dll
+dir
+
+geos_unit
+dir
+
+README
+file
+
+
+
+
+2007-12-24T19:46:41.000000Z
+ad568b1ff620ef502f08bc7d281ffca0
+2006-11-28T19:13:56.909067Z
+1922
+mloskot
+
+geos_python
+dir
+
+geos_ruby
+dir
+

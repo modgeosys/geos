@@ -1,0 +1,15 @@
+K 10
+svn:ignore
+V 115
+.deps
+.libs
+Makefile
+Makefile.in
+CTS
+CTS.exe
+testrunner
+SimpleWKTTester
+SimpleWKTTester.exe
+XMLTester
+XMLTester.exe
+END

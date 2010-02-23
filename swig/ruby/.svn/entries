@@ -1,0 +1,69 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/swig/ruby
+http://svn.osgeo.org/geos
+
+
+
+2007-09-21T17:40:48.475839Z
+2028
+csavage
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+test
+dir
+
+geos_wrap.cxx
+file
+
+
+
+
+2007-12-24T19:57:40.000000Z
+5677e5b135cca0b96d20f53d4410b0d4
+2007-09-21T17:40:48.475839Z
+2028
+csavage
+
+ruby.i
+file
+
+
+
+
+2007-12-24T19:57:40.000000Z
+a74a6d05fafe204c4ab0af7a039e4099
+2007-09-21T17:40:48.475839Z
+2028
+csavage
+has-props
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:57:40.000000Z
+d62d3442d0510486edb934f7f6b61345
+2007-08-31T20:18:15.254715Z
+2016
+csavage
+has-props
+

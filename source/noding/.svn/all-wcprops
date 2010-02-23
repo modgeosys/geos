@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/2080/trunk/source/noding
+END
+IntersectionFinderAdder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/noding/IntersectionFinderAdder.cpp
+END
+MCIndexSegmentSetMutualIntersector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2065/trunk/source/noding/MCIndexSegmentSetMutualIntersector.cpp
+END
+FastNodingValidator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1939/trunk/source/noding/FastNodingValidator.cpp
+END
+NodedSegmentString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/2065/trunk/source/noding/NodedSegmentString.cpp
+END
+SegmentNodeList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/noding/SegmentNodeList.cpp
+END
+IntersectionAdder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/noding/IntersectionAdder.cpp
+END
+SegmentNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/source/noding/SegmentNode.cpp
+END
+FastSegmentSetIntersectionFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/2065/trunk/source/noding/FastSegmentSetIntersectionFinder.cpp
+END
+SingleInteriorIntersectionFinder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/1939/trunk/source/noding/SingleInteriorIntersectionFinder.cpp
+END
+MCIndexNoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1939/trunk/source/noding/MCIndexNoder.cpp
+END
+SimpleNoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/source/noding/SimpleNoder.cpp
+END
+ScaledNoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1872/trunk/source/noding/ScaledNoder.cpp
+END
+SegmentIntersectionDetector.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/2065/trunk/source/noding/SegmentIntersectionDetector.cpp
+END
+NodingValidator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1931/trunk/source/noding/NodingValidator.cpp
+END
+SegmentStringUtil.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/2065/trunk/source/noding/SegmentStringUtil.cpp
+END
+Octant.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/1820/trunk/source/noding/Octant.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/2080/trunk/source/noding/Makefile.am
+END
+SegmentString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1872/trunk/source/noding/SegmentString.cpp
+END
+IteratedNoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/noding/IteratedNoder.cpp
+END

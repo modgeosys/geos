@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/1820/trunk/tests/unit/geom/Geometry
+END
+isRectangleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/tests/unit/geom/Geometry/isRectangleTest.cpp
+END
+coversTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1820/trunk/tests/unit/geom/Geometry/coversTest.cpp
+END

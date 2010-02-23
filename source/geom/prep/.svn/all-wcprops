@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/2095/trunk/source/geom/prep
+END
+PreparedLineString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedLineString.cpp
+END
+PreparedLineStringIntersects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedLineStringIntersects.cpp
+END
+PreparedPolygonContainsProperly.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2095/trunk/source/geom/prep/PreparedPolygonContainsProperly.cpp
+END
+PreparedGeometryFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/2094/trunk/source/geom/prep/PreparedGeometryFactory.cpp
+END
+PreparedPolygonLineIntersection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedPolygonLineIntersection.cpp
+END
+PreparedPolygonContains.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedPolygonContains.cpp
+END
+PreparedPolygon.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedPolygon.cpp
+END
+PreparedPoint.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedPoint.cpp
+END
+PreparedPolygonIntersects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedPolygonIntersects.cpp
+END
+PreparedGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedGeometry.cpp
+END
+BasicPreparedGeometry.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/2063/trunk/source/geom/prep/BasicPreparedGeometry.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2075/trunk/source/geom/prep/Makefile.am
+END
+PreparedPolygonPredicate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedPolygonPredicate.cpp
+END
+PreparedPolygonCovers.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/2063/trunk/source/geom/prep/PreparedPolygonCovers.cpp
+END
+AbstractPreparedPolygonContains.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/2094/trunk/source/geom/prep/AbstractPreparedPolygonContains.cpp
+END

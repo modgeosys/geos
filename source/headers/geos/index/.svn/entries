@@ -1,0 +1,85 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/source/headers/geos/index
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T22:43:36.436385Z
+2089
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+chain
+dir
+
+ItemVisitor.h
+file
+
+
+
+
+2007-12-24T19:52:44.000000Z
+d605328d66dd13e0981c2b1d5694168a
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+
+intervalrtree
+dir
+
+bintree
+dir
+
+strtree
+dir
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:52:44.000000Z
+beb75a99fe7348799f54022a04672160
+2007-12-21T21:57:17.683847Z
+2079
+pramsey
+has-props
+
+quadtree
+dir
+
+sweepline
+dir
+
+SpatialIndex.h
+file
+
+
+
+
+2007-12-24T19:52:44.000000Z
+3d17af01926527c6ab9657bee377ca6f
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+

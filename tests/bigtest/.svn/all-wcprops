@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/1861/trunk/tests/bigtest
+END
+GeometryTestFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1861/trunk/tests/bigtest/GeometryTestFactory.cpp
+END
+bigtest.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/1861/trunk/tests/bigtest/bigtest.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/1028/trunk/tests/bigtest/Makefile.am
+END
+TestSweepLineSpeed.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1861/trunk/tests/bigtest/TestSweepLineSpeed.cpp
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/geos/!svn/ver/2027/trunk/capi
+END
+test.expected
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/geos/!svn/ver/1890/trunk/capi/test.expected
+END
+geos_c.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/2027/trunk/capi/geos_c.cpp
+END
+testrunner.sh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/geos/!svn/ver/1896/trunk/capi/testrunner.sh
+END
+test.wkt
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/1028/trunk/capi/test.wkt
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/1916/trunk/capi/Makefile.am
+END
+geos_c.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/2027/trunk/capi/geos_c.h.in
+END
+geostest.c
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/1892/trunk/capi/geostest.c
+END

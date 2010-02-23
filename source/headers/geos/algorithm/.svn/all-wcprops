@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2099/trunk/source/headers/geos/algorithm
+END
+NotRepresentableException.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/NotRepresentableException.h
+END
+SIRtreePointInRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/SIRtreePointInRing.h
+END
+InteriorPointArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/InteriorPointArea.h
+END
+HCoordinate.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/HCoordinate.h
+END
+PointInRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/PointInRing.h
+END
+CentroidArea.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/CentroidArea.h
+END
+RayCrossingCounter.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/2060/trunk/source/headers/geos/algorithm/RayCrossingCounter.h
+END
+RobustDeterminant.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/RobustDeterminant.h
+END
+LineIntersector.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1938/trunk/source/headers/geos/algorithm/LineIntersector.h
+END
+SimplePointInRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/SimplePointInRing.h
+END
+CentralEndpointIntersector.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/geos/!svn/ver/1938/trunk/source/headers/geos/algorithm/CentralEndpointIntersector.h
+END
+PointLocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/PointLocator.h
+END
+InteriorPointLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1880/trunk/source/headers/geos/algorithm/InteriorPointLine.h
+END
+CentroidLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/CentroidLine.h
+END
+InteriorPointPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/InteriorPointPoint.h
+END
+MCPointInRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/MCPointInRing.h
+END
+CentroidPoint.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/CentroidPoint.h
+END
+ConvexHull.inl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/ConvexHull.inl
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/2099/trunk/source/headers/geos/algorithm/Makefile.am
+END
+CGAlgorithms.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/CGAlgorithms.h
+END
+MinimumDiameter.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/MinimumDiameter.h
+END
+ConvexHull.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1820/trunk/source/headers/geos/algorithm/ConvexHull.h
+END

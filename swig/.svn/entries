@@ -1,0 +1,59 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/swig
+http://svn.osgeo.org/geos
+
+
+
+2007-11-26T15:19:40.447136Z
+2035
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+python
+dir
+
+ruby
+dir
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:57:42.000000Z
+2bec72d18cd4a7c844435061a9982aef
+2006-07-13T07:36:56.000000Z
+1758
+csavage
+has-props
+
+geos.i.in
+file
+
+
+
+
+2007-12-24T19:57:42.000000Z
+1c2c4f7c7adecbe6dfa892dadab65f61
+2007-09-21T17:40:48.475839Z
+2028
+csavage
+

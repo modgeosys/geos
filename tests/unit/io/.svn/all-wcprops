@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/1842/trunk/tests/unit/io
+END
+ByteOrderValuesTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/tests/unit/io/ByteOrderValuesTest.cpp
+END
+WKBReaderTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1842/trunk/tests/unit/io/WKBReaderTest.cpp
+END

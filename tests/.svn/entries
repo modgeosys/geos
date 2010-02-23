@@ -1,0 +1,53 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/tests
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T23:21:40.473968Z
+2096
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+unit
+dir
+
+bigtest
+dir
+
+xmltester
+dir
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:56:30.000000Z
+134e48d641652dc5515166b7cc74f9fa
+2006-07-05T22:19:22.000000Z
+1684
+strk
+has-props
+
+tut
+dir
+

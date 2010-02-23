@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2093/trunk/source/headers/geos/geom/util
+END
+PolygonExtracter.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/PolygonExtracter.h
+END
+PointExtracter.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/PointExtracter.h
+END
+ComponentCoordinateExtracter.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/geos/!svn/ver/2093/trunk/source/headers/geos/geom/util/ComponentCoordinateExtracter.h
+END
+GeometryTransformer.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/GeometryTransformer.h
+END
+LinearComponentExtracter.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/LinearComponentExtracter.h
+END
+GeometryEditor.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/GeometryEditor.h
+END
+GeometryEditorOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/GeometryEditorOperation.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/2078/trunk/source/headers/geos/geom/util/Makefile.am
+END
+ShortCircuitedGeometryVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/ShortCircuitedGeometryVisitor.h
+END
+CoordinateOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1820/trunk/source/headers/geos/geom/util/CoordinateOperation.h
+END

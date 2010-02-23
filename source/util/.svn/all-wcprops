@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/1992/trunk/source/util
+END
+Assert.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/1820/trunk/source/util/Assert.cpp
+END
+Profiler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/geos/!svn/ver/1820/trunk/source/util/Profiler.cpp
+END
+GeometricShapeFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/util/GeometricShapeFactory.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/1602/trunk/source/util/Makefile.am
+END
+UnsupportedOperationException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/util/UnsupportedOperationException.cpp
+END
+math.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/1820/trunk/source/util/math.cpp
+END
+AssertionFailedException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/util/AssertionFailedException.cpp
+END
+IllegalArgumentException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/util/IllegalArgumentException.cpp
+END

@@ -1,0 +1,54 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/tests/unit/geom/Geometry
+http://svn.osgeo.org/geos
+
+
+
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+isRectangleTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:06.000000Z
+4064c9f273ae0adf8db6cbb8d8acbdbc
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+
+coversTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:06.000000Z
+428cfc181fec6c92ae92d4b29192ac52
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+

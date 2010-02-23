@@ -1,0 +1,13 @@
+.. $Id: TESTING.txt 509 2004-07-25 23:45:47Z sgillies $
+
+Author: Sean Gillies, sgillies@frii.com
+
+
+Running the tests
+-----------------
+
+To run the tests, execute 
+
+   python tests/runtests.py -v
+
+

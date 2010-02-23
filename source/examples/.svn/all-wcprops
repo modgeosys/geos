@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/2088/trunk/source/examples
+END
+CoordinateSequencesExample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1820/trunk/source/examples/CoordinateSequencesExample.cpp
+END
+CPCLException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1820/trunk/source/examples/CPCLException.cpp
+END
+CustomPointCoordinateSequence.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/2088/trunk/source/examples/CustomPointCoordinateSequence.cpp
+END
+CustomCoordinateSequenceExample.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1820/trunk/source/examples/CustomCoordinateSequenceExample.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/624/trunk/source/examples/Makefile.am
+END
+CustomCoordinateSequenceExample.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1820/trunk/source/examples/CustomCoordinateSequenceExample.h
+END

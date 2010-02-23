@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/2025/trunk/source/io
+END
+ByteOrderValues.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/source/io/ByteOrderValues.cpp
+END
+WKBWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/2025/trunk/source/io/WKBWriter.cpp
+END
+StringTokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/source/io/StringTokenizer.cpp
+END
+Unload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/1820/trunk/source/io/Unload.cpp
+END
+WKTWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/1820/trunk/source/io/WKTWriter.cpp
+END
+WKBReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/2022/trunk/source/io/WKBReader.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/1308/trunk/source/io/Makefile.am
+END
+WKTReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/1820/trunk/source/io/WKTReader.cpp
+END
+ParseException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/1820/trunk/source/io/ParseException.cpp
+END
+ByteOrderDataInStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/io/ByteOrderDataInStream.cpp
+END
+Writer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/1820/trunk/source/io/Writer.cpp
+END

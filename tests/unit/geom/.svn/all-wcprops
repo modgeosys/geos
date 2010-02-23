@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/2040/trunk/tests/unit/geom
+END
+MultiPolygonTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1842/trunk/tests/unit/geom/MultiPolygonTest.cpp
+END
+MultiPointTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1842/trunk/tests/unit/geom/MultiPointTest.cpp
+END
+TriangleTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1842/trunk/tests/unit/geom/TriangleTest.cpp
+END
+CoordinateArraySequenceFactoryTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/geos/!svn/ver/1842/trunk/tests/unit/geom/CoordinateArraySequenceFactoryTest.cpp
+END
+LocationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1842/trunk/tests/unit/geom/LocationTest.cpp
+END
+LineSegmentTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1842/trunk/tests/unit/geom/LineSegmentTest.cpp
+END
+EnvelopeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/1842/trunk/tests/unit/geom/EnvelopeTest.cpp
+END
+LineStringTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1990/trunk/tests/unit/geom/LineStringTest.cpp
+END
+CoordinateArraySequenceTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1924/trunk/tests/unit/geom/CoordinateArraySequenceTest.cpp
+END
+CoordinateListTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1842/trunk/tests/unit/geom/CoordinateListTest.cpp
+END
+GeometryFactoryTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/2040/trunk/tests/unit/geom/GeometryFactoryTest.cpp
+END
+DimensionTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1842/trunk/tests/unit/geom/DimensionTest.cpp
+END
+PolygonTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1842/trunk/tests/unit/geom/PolygonTest.cpp
+END
+CoordinateTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1842/trunk/tests/unit/geom/CoordinateTest.cpp
+END
+PointTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1842/trunk/tests/unit/geom/PointTest.cpp
+END
+MultiLineStringTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1842/trunk/tests/unit/geom/MultiLineStringTest.cpp
+END
+LinearRingTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1842/trunk/tests/unit/geom/LinearRingTest.cpp
+END
+IntersectionMatrixTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1820/trunk/tests/unit/geom/IntersectionMatrixTest.cpp
+END

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/geos/!svn/ver/2028/trunk/swig/ruby/test
+END
+test_coordinate_sequence.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/2001/trunk/swig/ruby/test/test_coordinate_sequence.rb
+END
+test_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2028/trunk/swig/ruby/test/test_helper.rb
+END
+geos_tests.rb
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/geos/!svn/ver/2001/trunk/swig/ruby/test/geos_tests.rb
+END
+test_relations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/geos/!svn/ver/2001/trunk/swig/ruby/test/test_relations.rb
+END
+test_srid.rb
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/2028/trunk/swig/ruby/test/test_srid.rb
+END
+test_operations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/2028/trunk/swig/ruby/test/test_operations.rb
+END
+test_combinations.rb
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/2001/trunk/swig/ruby/test/test_combinations.rb
+END
+test_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/2028/trunk/swig/ruby/test/test_version.rb
+END
+test_io.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/2028/trunk/swig/ruby/test/test_io.rb
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/1764/trunk/swig/ruby/test/Makefile.am
+END
+test_buffer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/2028/trunk/swig/ruby/test/test_buffer.rb
+END
+test_geometry.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/2001/trunk/swig/ruby/test/test_geometry.rb
+END
+example.rb
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/1015/trunk/swig/ruby/test/example.rb
+END
+test_envelope.rb
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/2001/trunk/swig/ruby/test/test_envelope.rb
+END

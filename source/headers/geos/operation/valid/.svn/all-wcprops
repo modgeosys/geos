@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid
+END
+ConsistentAreaTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/ConsistentAreaTester.h
+END
+IsValidOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/IsValidOp.h
+END
+RepeatedPointTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/RepeatedPointTester.h
+END
+TopologyValidationError.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/TopologyValidationError.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1613/trunk/source/headers/geos/operation/valid/Makefile.am
+END
+SimpleNestedRingTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/SimpleNestedRingTester.h
+END
+QuadtreeNestedRingTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/QuadtreeNestedRingTester.h
+END
+ConnectedInteriorTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/ConnectedInteriorTester.h
+END
+SweeplineNestedRingTester.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/valid/SweeplineNestedRingTester.h
+END

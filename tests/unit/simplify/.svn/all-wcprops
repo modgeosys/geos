@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/1988/trunk/tests/unit/simplify
+END
+DouglasPeuckerSimplifierTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/1988/trunk/tests/unit/simplify/DouglasPeuckerSimplifierTest.cpp
+END
+TopologyPreservingSimplifierTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/geos/!svn/ver/1820/trunk/tests/unit/simplify/TopologyPreservingSimplifierTest.cpp
+END

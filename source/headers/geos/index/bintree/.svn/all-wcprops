@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1986/trunk/source/headers/geos/index/bintree
+END
+NodeBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/bintree/NodeBase.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1613/trunk/source/headers/geos/index/bintree/Makefile.am
+END
+Root.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1986/trunk/source/headers/geos/index/bintree/Root.h
+END
+Interval.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/bintree/Interval.h
+END
+Node.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/bintree/Node.h
+END
+Bintree.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/bintree/Bintree.h
+END
+Key.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/bintree/Key.h
+END

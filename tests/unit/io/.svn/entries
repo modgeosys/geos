@@ -1,0 +1,54 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/tests/unit/io
+http://svn.osgeo.org/geos
+
+
+
+2006-09-07T15:28:03.432552Z
+1842
+strk
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+ByteOrderValuesTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:18.000000Z
+3fa54415565df722353216ce9378b465
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+
+WKBReaderTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:18.000000Z
+d76f7b5a629eeff9612ed4f0e93d03c0
+2006-09-07T15:28:03.432552Z
+1842
+strk
+has-props
+

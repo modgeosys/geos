@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 26
+*.ncb
+*.suo
+debug
+release
+
+END

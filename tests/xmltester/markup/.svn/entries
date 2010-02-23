@@ -1,0 +1,54 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/tests/xmltester/markup
+http://svn.osgeo.org/geos
+
+
+
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+MarkupSTL.cpp
+file
+
+
+
+
+2007-12-24T19:54:52.000000Z
+0784cea4e64eb14fa26285f5591dfbf4
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+
+MarkupSTL.h
+file
+
+
+
+
+2007-12-24T19:54:52.000000Z
+422a6ebfdc8b19d68b437f608852f1aa
+2006-09-06T16:54:23.838580Z
+1820
+mloskot
+has-props
+

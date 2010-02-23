@@ -1,0 +1,40 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/build/msvc80/geos_c_dll
+http://svn.osgeo.org/geos
+
+
+
+2007-09-14T15:34:51.183622Z
+2024
+csavage
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+geos_c_dll.vcproj
+file
+
+
+
+
+2007-12-24T19:46:39.000000Z
+af9e92fce11073e43237d19ab997332d
+2007-09-14T15:34:51.183622Z
+2024
+csavage
+

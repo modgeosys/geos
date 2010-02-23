@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/2035/trunk/swig/python
+END
+geos.py
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/geos/!svn/ver/2002/trunk/swig/python/geos.py
+END
+geos.pth
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/1025/trunk/swig/python/geos.pth
+END
+geos_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/2035/trunk/swig/python/geos_wrap.cxx
+END
+python.i
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/2009/trunk/swig/python/python.i
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/2016/trunk/swig/python/Makefile.am
+END

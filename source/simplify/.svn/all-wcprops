@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/1992/trunk/source/simplify
+END
+TaggedLineStringSimplifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1820/trunk/source/simplify/TaggedLineStringSimplifier.cpp
+END
+DouglasPeuckerSimplifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/simplify/DouglasPeuckerSimplifier.cpp
+END
+LineSegmentIndex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1820/trunk/source/simplify/LineSegmentIndex.cpp
+END
+TopologyPreservingSimplifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/1820/trunk/source/simplify/TopologyPreservingSimplifier.cpp
+END
+TaggedLineSegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/simplify/TaggedLineSegment.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/1451/trunk/source/simplify/Makefile.am
+END
+DouglasPeuckerLineSimplifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/1928/trunk/source/simplify/DouglasPeuckerLineSimplifier.cpp
+END
+TaggedLineString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1820/trunk/source/simplify/TaggedLineString.cpp
+END
+TaggedLinesSimplifier.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/simplify/TaggedLinesSimplifier.cpp
+END

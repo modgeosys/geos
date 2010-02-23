@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/2028/trunk/swig/ruby
+END
+geos_wrap.cxx
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/geos/!svn/ver/2028/trunk/swig/ruby/geos_wrap.cxx
+END
+ruby.i
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/2028/trunk/swig/ruby/ruby.i
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/2016/trunk/swig/ruby/Makefile.am
+END

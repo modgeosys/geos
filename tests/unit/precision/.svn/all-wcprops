@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/2038/trunk/tests/unit/precision
+END
+GeometrySnapperTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1823/trunk/tests/unit/precision/GeometrySnapperTest.cpp
+END
+LineStringSnapperTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1842/trunk/tests/unit/precision/LineStringSnapperTest.cpp
+END
+SimpleGeometryPrecisionReducerTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/geos/!svn/ver/2038/trunk/tests/unit/precision/SimpleGeometryPrecisionReducerTest.cpp
+END

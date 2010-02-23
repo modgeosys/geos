@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1948/trunk/source/headers/geos/precision
+END
+CommonBitsOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/precision/CommonBitsOp.h
+END
+CommonBits.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1820/trunk/source/headers/geos/precision/CommonBits.h
+END
+CommonBitsRemover.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1820/trunk/source/headers/geos/precision/CommonBitsRemover.h
+END
+SimpleGeometryPrecisionReducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/geos/!svn/ver/1820/trunk/source/headers/geos/precision/SimpleGeometryPrecisionReducer.h
+END
+EnhancedPrecisionOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1820/trunk/source/headers/geos/precision/EnhancedPrecisionOp.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1770/trunk/source/headers/geos/precision/Makefile.am
+END
+GeometrySnapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1948/trunk/source/headers/geos/precision/GeometrySnapper.h
+END
+LineStringSnapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1940/trunk/source/headers/geos/precision/LineStringSnapper.h
+END

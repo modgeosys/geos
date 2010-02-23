@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/1978/trunk/tests/unit/capi
+END
+GEOSSimplifyTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1937/trunk/tests/unit/capi/GEOSSimplifyTest.cpp
+END
+GEOSCoordSeqTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1978/trunk/tests/unit/capi/GEOSCoordSeqTest.cpp
+END

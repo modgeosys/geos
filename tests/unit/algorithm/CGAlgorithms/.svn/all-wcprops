@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1993/trunk/tests/unit/algorithm/CGAlgorithms
+END
+computeOrientationTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/geos/!svn/ver/1993/trunk/tests/unit/algorithm/CGAlgorithms/computeOrientationTest.cpp
+END
+isCCWTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1993/trunk/tests/unit/algorithm/CGAlgorithms/isCCWTest.cpp
+END
+isPointInRingTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/1820/trunk/tests/unit/algorithm/CGAlgorithms/isPointInRingTest.cpp
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/geos/!svn/ver/1834/trunk/doc
+END
+Doxyfile.in
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/1820/trunk/doc/Doxyfile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/1028/trunk/doc/Makefile.am
+END
+example.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/1834/trunk/doc/example.cpp
+END
+example.tosql
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/geos/!svn/ver/472/trunk/doc/example.tosql
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/502/trunk/doc/README
+END

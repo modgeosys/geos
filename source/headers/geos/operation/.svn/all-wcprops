@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1969/trunk/source/headers/geos/operation
+END
+EndpointInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/EndpointInfo.h
+END
+GeometryGraphOperation.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/GeometryGraphOperation.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1613/trunk/source/headers/geos/operation/Makefile.am
+END
+IsSimpleOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/IsSimpleOp.h
+END

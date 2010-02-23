@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/geos/!svn/ver/1992/trunk/source/operation/linemerge
+END
+LineMergeDirectedEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/1820/trunk/source/operation/linemerge/LineMergeDirectedEdge.cpp
+END
+LineSequencer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/operation/linemerge/LineSequencer.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1044/trunk/source/operation/linemerge/Makefile.am
+END
+LineMergeGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/geos/!svn/ver/1820/trunk/source/operation/linemerge/LineMergeGraph.cpp
+END
+LineMerger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/operation/linemerge/LineMerger.cpp
+END
+EdgeString.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/geos/!svn/ver/1820/trunk/source/operation/linemerge/EdgeString.cpp
+END
+LineMergeEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/geos/!svn/ver/1820/trunk/source/operation/linemerge/LineMergeEdge.cpp
+END

@@ -1,0 +1,40 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/build/msvc80/geos_unit
+http://svn.osgeo.org/geos
+
+
+
+2007-12-13T16:09:25.393575Z
+2040
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+geos_unit.vcproj
+file
+
+
+
+
+2007-12-24T19:46:39.000000Z
+f236255e1dfcde21ed2d2cf7193c1580
+2007-12-13T16:09:25.393575Z
+2040
+mloskot
+

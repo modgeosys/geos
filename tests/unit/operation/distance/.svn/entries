@@ -1,0 +1,41 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/tests/unit/operation/distance
+http://svn.osgeo.org/geos
+
+
+
+2007-06-01T13:43:59.178706Z
+1982
+mloskot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+DistanceOpTest.cpp
+file
+
+
+
+
+2007-12-24T19:54:00.000000Z
+dd0c0b73d916f1b1f0ab905dbe710ef9
+2007-06-01T13:43:59.178706Z
+1982
+mloskot
+has-props
+

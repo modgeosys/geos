@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/geos/!svn/ver/2032/trunk/source/headers/geos/io
+END
+ParseException.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/ParseException.h
+END
+ByteOrderDataInStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/ByteOrderDataInStream.h
+END
+Writer.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/Writer.h
+END
+ByteOrderValues.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/ByteOrderValues.h
+END
+WKBConstants.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/WKBConstants.h
+END
+WKBWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/2032/trunk/source/headers/geos/io/WKBWriter.h
+END
+StringTokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/StringTokenizer.h
+END
+WKTWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/WKTWriter.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1613/trunk/source/headers/geos/io/Makefile.am
+END
+WKTReader.inl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/WKTReader.inl
+END
+WKBReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/WKBReader.h
+END
+ByteOrderDataInStream.inl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/1997/trunk/source/headers/geos/io/ByteOrderDataInStream.inl
+END
+WKTReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/headers/geos/io/WKTReader.h
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/geos/!svn/ver/1997/trunk/source/operation/polygonize
+END
+PolygonizeGraph.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/geos/!svn/ver/1820/trunk/source/operation/polygonize/PolygonizeGraph.cpp
+END
+Polygonizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/geos/!svn/ver/1997/trunk/source/operation/polygonize/Polygonizer.cpp
+END
+EdgeRing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/operation/polygonize/EdgeRing.cpp
+END
+PolygonizeEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/geos/!svn/ver/1820/trunk/source/operation/polygonize/PolygonizeEdge.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1502/trunk/source/operation/polygonize/Makefile.am
+END
+PolygonizeDirectedEdge.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/geos/!svn/ver/1820/trunk/source/operation/polygonize/PolygonizeDirectedEdge.cpp
+END

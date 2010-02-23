@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1941/trunk/source/headers/geos/operation/overlay
+END
+MinimalEdgeRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/MinimalEdgeRing.h
+END
+MaximalEdgeRing.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/MaximalEdgeRing.h
+END
+PolygonBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/PolygonBuilder.h
+END
+LineBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/LineBuilder.h
+END
+PointBuilder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/PointBuilder.h
+END
+OffsetPointGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/geos/!svn/ver/1941/trunk/source/headers/geos/operation/overlay/OffsetPointGenerator.h
+END
+EdgeSetNoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/EdgeSetNoder.h
+END
+ElevationMatrixCell.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/ElevationMatrixCell.h
+END
+ElevationMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/ElevationMatrix.h
+END
+OverlayNodeFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/OverlayNodeFactory.h
+END
+OverlayOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/OverlayOp.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/geos/!svn/ver/1821/trunk/source/headers/geos/operation/overlay/Makefile.am
+END
+FuzzyPointLocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/geos/!svn/ver/1941/trunk/source/headers/geos/operation/overlay/FuzzyPointLocator.h
+END
+OverlayResultValidator.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/geos/!svn/ver/1941/trunk/source/headers/geos/operation/overlay/OverlayResultValidator.h
+END
+MinimalEdgeRing.inl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/geos/!svn/ver/1820/trunk/source/headers/geos/operation/overlay/MinimalEdgeRing.inl
+END

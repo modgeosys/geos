@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/geos/!svn/ver/1992/trunk/source/index/quadtree
+END
+IntervalSize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/geos/!svn/ver/1820/trunk/source/index/quadtree/IntervalSize.cpp
+END
+NodeBase.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/index/quadtree/NodeBase.cpp
+END
+Root.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1820/trunk/source/index/quadtree/Root.cpp
+END
+Node.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/geos/!svn/ver/1820/trunk/source/index/quadtree/Node.cpp
+END
+Key.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/geos/!svn/ver/1820/trunk/source/index/quadtree/Key.cpp
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/geos/!svn/ver/1267/trunk/source/index/quadtree/Makefile.am
+END
+Quadtree.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/geos/!svn/ver/1820/trunk/source/index/quadtree/Quadtree.cpp
+END
+DoubleBits.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/1986/trunk/source/index/quadtree/DoubleBits.cpp
+END

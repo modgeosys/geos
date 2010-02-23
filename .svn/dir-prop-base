@@ -1,0 +1,25 @@
+K 10
+svn:ignore
+V 196
+aclocal.m4
+autom4te.cache
+config.guess
+config.log
+config.status
+config.sub
+configure
+depcomp
+install-sh
+libtool
+ltmain.sh
+missing
+mkinstalldirs
+Makefile
+Makefile.in
+py-compile
+tags
+ID
+*.swp
+.gdb*
+
+END

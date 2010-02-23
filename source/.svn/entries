@@ -1,0 +1,119 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/source
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T23:50:57.773259Z
+2100
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+dirlist.mk
+file
+
+
+
+
+2007-12-24T19:53:58.000000Z
+2c6df128c95c28e3e188e30ee2f24ccc
+2006-10-18T17:53:39.672786Z
+1869
+mloskot
+has-props
+
+inlines.cpp
+file
+
+
+
+
+2007-12-24T19:53:58.000000Z
+df1875a36672d3ed28c614951e09b569
+2007-02-26T10:46:12.915552Z
+1975
+strk
+has-props
+
+Makefile.vc
+file
+
+
+
+
+2007-12-24T19:53:58.000000Z
+e24d5148c07ba1378b4a755e62b02958
+2007-12-21T23:50:57.773259Z
+2100
+mloskot
+has-props
+
+algorithm
+dir
+
+geom
+dir
+
+precision
+dir
+
+simplify
+dir
+
+planargraph
+dir
+
+operation
+dir
+
+index
+dir
+
+io
+dir
+
+geomgraph
+dir
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:53:58.000000Z
+cc47b3b54c42fdd7dc2ff65e8b88a033
+2006-04-10T12:05:35.000000Z
+1418
+strk
+has-props
+
+headers
+dir
+
+util
+dir
+
+examples
+dir
+
+noding
+dir
+

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/geos/!svn/ver/1820/trunk/tools
+END
+geos-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/geos/!svn/ver/1820/trunk/tools/geos-config.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/geos/!svn/ver/31/trunk/tools/Makefile.am
+END

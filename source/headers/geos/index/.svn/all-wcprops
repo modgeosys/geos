@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/geos/!svn/ver/2089/trunk/source/headers/geos/index
+END
+ItemVisitor.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/ItemVisitor.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/2079/trunk/source/headers/geos/index/Makefile.am
+END
+SpatialIndex.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/geos/!svn/ver/1820/trunk/source/headers/geos/index/SpatialIndex.h
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/geos/!svn/ver/2101/trunk
+END
+HOWTO_RELEASE
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/geos/!svn/ver/1947/trunk/HOWTO_RELEASE
+END
+makefile.vc
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/1870/trunk/makefile.vc
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/geos/!svn/ver/1851/trunk/AUTHORS
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/geos/!svn/ver/1850/trunk/TODO
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/geos/!svn/ver/2086/trunk/configure.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/geos/!svn/ver/754/trunk/INSTALL
+END
+acsite.m4
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/1689/trunk/acsite.m4
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/geos/!svn/ver/2046/trunk/ChangeLog
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/geos/!svn/ver/27/trunk/COPYING
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/geos/!svn/ver/1621/trunk/Makefile.am
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/geos/!svn/ver/1977/trunk/autogen.sh
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/geos/!svn/ver/1773/trunk/NEWS
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/geos/!svn/ver/1833/trunk/README
+END

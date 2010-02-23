@@ -1,0 +1,59 @@
+8
+
+dir
+2101
+http://svn.osgeo.org/geos/trunk/source/index
+http://svn.osgeo.org/geos
+
+
+
+2007-12-21T23:50:57.773259Z
+2100
+mloskot
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5242fede-7e19-0410-aef8-94bd7d2200fb
+
+chain
+dir
+
+intervalrtree
+dir
+
+bintree
+dir
+
+strtree
+dir
+
+Makefile.am
+file
+
+
+
+
+2007-12-24T19:49:43.000000Z
+12c498c777b4a6ec110d9e0d146bcb29
+2007-12-21T21:47:37.810435Z
+2077
+pramsey
+has-props
+
+quadtree
+dir
+
+sweepline
+dir
+

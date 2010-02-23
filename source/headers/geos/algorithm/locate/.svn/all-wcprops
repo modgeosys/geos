@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/geos/!svn/ver/2096/trunk/source/headers/geos/algorithm/locate
+END
+IndexedPointInAreaLocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/geos/!svn/ver/2052/trunk/source/headers/geos/algorithm/locate/IndexedPointInAreaLocator.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/2081/trunk/source/headers/geos/algorithm/locate/Makefile.am
+END
+PointOnGeometryLocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/geos/!svn/ver/2052/trunk/source/headers/geos/algorithm/locate/PointOnGeometryLocator.h
+END
+SimplePointInAreaLocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/geos/!svn/ver/2053/trunk/source/headers/geos/algorithm/locate/SimplePointInAreaLocator.h
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/geos/!svn/ver/1842/trunk/tests/unit/noding
+END
+SegmentPointComparatorTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/geos/!svn/ver/1820/trunk/tests/unit/noding/SegmentPointComparatorTest.cpp
+END
+SegmentNodeTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/geos/!svn/ver/1820/trunk/tests/unit/noding/SegmentNodeTest.cpp
+END
+SegmentStringTest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/geos/!svn/ver/1842/trunk/tests/unit/noding/SegmentStringTest.cpp
+END
