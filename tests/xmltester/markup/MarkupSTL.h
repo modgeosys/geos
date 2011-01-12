@@ -65,6 +65,7 @@
 #include <string>
 #include <map>
 #include <vector>
+#include <cstring>
 
 #ifdef _DEBUG
 #define _DS(i) (i?&(m_strDoc.c_str())[m_aPos[i].nStartL]:0)

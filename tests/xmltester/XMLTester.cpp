@@ -57,6 +57,7 @@
 #include <functional>
 #include <stdexcept>
 #include <cmath>
+#include <cstring>
 
 #ifdef _MSC_VER
 #include <windows.h>

@@ -25,6 +25,7 @@
 
 #include <cassert>
 #include <string>
+#include <memory>
 
 // Forward declarations
 namespace geos {

@@ -22,6 +22,7 @@
 #include <geos/util.h>
 
 #include <cassert>
+#include <cstring>
 
 namespace geos {
 namespace io { // geos.io
