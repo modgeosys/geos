@@ -15,6 +15,7 @@
 
 
 #include <geos/algorithm/locate/IndexedPointInAreaLocator.h>
+#include <typeinfo>
 #include <geos/geom/Geometry.h>
 #include <geos/geom/Polygon.h>
 #include <geos/geom/MultiPolygon.h>
